@@ -1,0 +1,10 @@
+O pib do Norte é :133.5
+O pib do Nordeste é : 464.0
+O pib do Sudeste é : 2294.0
+O pib do Sul é : 671.0
+O pib do Centro-Oeste é : 395.0
+Porcentagem do PIB Norte: 3,37%
+Porcentagem do PIB Nordeste: 11,72%
+Porcentagem do PIB Sudeste: 57,97%
+Porcentagem do PIB Sul: 16,96%
+Porcentagem do PIB Centro-Oeste: 9,98%
